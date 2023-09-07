@@ -7,4 +7,4 @@ echo "variable 1: $VARI"
 
 echo "all var: $@"
 
-echo "all var: $@"
+echo "all var: $#"
