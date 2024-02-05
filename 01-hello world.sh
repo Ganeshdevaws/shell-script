@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "Hello world. I am learning, Devops with AWS"
+echo "Hello world. I am learning Devops with AWS"
 PERSON1=Sachin
 PERSON2=Rohit
 
